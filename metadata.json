@@ -1,0 +1,6 @@
+{
+  "name": "Apex GT: Square Circuit 3D Racing",
+  "description": "Simulador de carreras 3D de alto rendimiento en circuito cuadrado con físicas dinámicas de daños, deformación, audio procedural y controles móviles táctiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
